@@ -1,0 +1,24 @@
+.logo {
+	text-align: center;
+	padding: 50px 0;
+}
+.content {
+	margin: 50px 0;
+}
+.footer {
+	background: black;
+	color: white;
+	text-align: center;
+	padding: 80px;
+}
+.navigation {
+	text-align: center;
+	background: purple;
+	padding: 20px 0;
+}
+.navigation ul {
+	margin-bottom: 0;
+}
+.navigation ul li a {
+	color: white;
+}

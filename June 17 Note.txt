@@ -1,0 +1,24 @@
+text-transform
+	- uppercase
+	- lowercase
+	- capitalize
+
+cursor: pointer
+
+image
+	height
+	width
+
+	default - auto
+
+CSS
+	External CSS
+	Internal CSS
+	Inline CSS < X
+
+Glbal Attribute
+	Class
+
+div
+
+Emmet
